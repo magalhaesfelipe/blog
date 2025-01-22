@@ -18,8 +18,7 @@ const Home = () => {
           <h1 className='mb-4 flex text-3xl'>Felipe Magalhaes</h1>
           <div className='bg--500 max-w-fit'>
             <p className='mb-32 font-mate text-lg'>
-              Hey, I'm Felipe. I create Full Stack applications. Check out my
-              projects.
+              Hey, I am Felipe, a full stack web developer. Check out some cool projects.
             </p>
 
             <div>
